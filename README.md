@@ -49,13 +49,13 @@
 <td width="50%">
 <h3 align="center">Pac-Man 3D</h3>
 <div align="center">
-<a href="https://github.com/dsanta2021/GyV3D/tree/master/PF" target="_blank"><img src="pacman.jpg" width="400" alt="Pac-Man 3D"></a>
+<a href="https://github.com/dsanta2021/GyV3D/tree/master/PF" target="_blank"><img src="pacman.png" width="400" alt="Pac-Man 3D"></a>
 <p>
 <a href="https://github.com/dsanta2021/GyV3D/tree/master/PF" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>a web application that includes an interactive 3D chart designed with Three.js. With the same rules of the original Pac-Man, you can play this amazing game. </p>
+<p>A web application that includes an interactive 3D chart designed with Three.js. With the same rules of the original Pac-Man, you can play this amazing game. </p>
 </div>
 
 </td>
@@ -64,7 +64,7 @@
                <br>
 <h3 align="center">Distributed audio and video streaming service.</h3>
 <div align="center">                                       
-<a href="https://gitlab.eif.urjc.es/ptavi1/p11-final" target="_blank"><img src="Img.jpg" width="400" alt="Distributed audio and video streaming service."></a>
+<a href="https://gitlab.eif.urjc.es/ptavi1/p11-final" target="_blank"><img src="ptavi.png" width="400" alt="Distributed audio and video streaming service."></a>
 <br>
 <p>
 <a href="https://gitlab.eif.urjc.es/ptavi1/p11-final" target="_blank">
