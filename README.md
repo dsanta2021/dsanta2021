@@ -5,7 +5,7 @@
 
 ## About Me
 
-- 📖 Telecommunications engineering student ​👨🏼‍🎓​
+- 📖 Telecommunications engineering student 
 - <a href="https://aristi.dev">CEET's</a> (Consejo Estatal de Estudiantes de Telecomunicación) member 
   
 #### Interested in:
@@ -55,7 +55,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>A project done with THREE.js. With the same rules of the original Pac-Man, you can play this amazing game. </p>
+<p>a web application that includes an interactive 3D chart designed with Three.js. With the same rules of the original Pac-Man, you can play this amazing game. </p>
 </div>
 
 </td>
