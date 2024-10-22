@@ -42,7 +42,7 @@
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/davidsntcz)
 </p>
 
-## Proyectos *bombitas*
+## The Greatests
 
 <table>
 <tr>
