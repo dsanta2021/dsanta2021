@@ -1,13 +1,14 @@
 <div align="center">
 <h1 align="center">Hi there, I'm David Santa Cruz 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Facetvm.com%2Fadmission%2Fece%2F&psig=AOvVaw0CpqjHAc63lzxrkSOZUwLJ&ust=1729696080333000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjkjJiiookDFQAAAAAdAAAAABBN">
+<img src="">
 
 ## About Me
 
 - 📖 Telecommunications engineering student ​👨🏼‍🎓​
 - <a href="https://aristi.dev">CEET's</a> (Consejo Estatal de Estudiantes de Telecomunicación) member
-- #Interested in:
+  
+#### Interested in:
     - Front-End Devolopment
     - Machine Learning
     - TCP/IP
