@@ -13,7 +13,6 @@
 - Machine Learning
 - TCP/IP
 - Acknoledgment & Classification
-<br>
 
 ## Skills
 
@@ -44,6 +43,20 @@
 </p>
 
 ## Proyectos *bombitas*
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Pac-Man 3D</h3>
+<div align="center">
+<a href="https://github.com/dsanta2021/GyV3D/tree/master/PF" target="_blank"><img src="pacman.jpg" width="400" alt="Pac-Man 3D"></a>
+<p>
+<a href="https://github.com/dsanta2021/GyV3D/tree/master/PF" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>A project done with THREE.js. With the same rules of the original Pac-Man, you can play this amazing game. </p>
+</div>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
