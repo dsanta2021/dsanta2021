@@ -57,10 +57,29 @@
 </p>
 <p>A project done with THREE.js. With the same rules of the original Pac-Man, you can play this amazing game. </p>
 </div>
-</table>
+
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Distributed audio and video streaming service.</h3>
+<div align="center">                                       
+<a href="https://gitlab.eif.urjc.es/ptavi1/p11-final" target="_blank"><img src="Img.jpg" width="400" alt="Distributed audio and video streaming service."></a>
+<br>
+<p>
+<a href="https://gitlab.eif.urjc.es/ptavi1/p11-final" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=gitlab&logoColor=black">
+</a>
+</p>
+</p>This project aims to create a distributed audio and video streaming service using WebRTC. It consists of a streaming service where several servers provide videos accessible from browsers. A "central" server will handle signaling to allow the servers to offer their videos and make it easier for clients to consult the available content.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
 
 
-# ⚙️ &nbsp;GitHub Analytics
+
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/dsanta2021">
