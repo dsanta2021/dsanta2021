@@ -57,6 +57,7 @@
 </p>
 <p>A project done with THREE.js. With the same rules of the original Pac-Man, you can play this amazing game. </p>
 </div>
+</table>
 
 
 # ⚙️ &nbsp;GitHub Analytics
