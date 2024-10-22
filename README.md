@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi there, I'm David Santa Cruz 👋</h1>
 </div>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.swg.com%2Fcan%2Fsoftware%2Fsoftware-integration%2Fintegration-landing-page-banner%2F&psig=AOvVaw0CpqjHAc63lzxrkSOZUwLJ&ust=1729696080333000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqGAoTCLjkjJiiookDFQAAAAAdAAAAABCbAg">
+<img src="https://www.swg.com/can/wp-content/uploads/sites/38/2014/09/Integration-Landing-page-banner.jpg">
 
 ## About Me
 
