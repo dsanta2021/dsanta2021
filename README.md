@@ -6,7 +6,7 @@
 ## About Me
 
 - 📖 Telecommunications engineering student 
-- <a href="https://aristi.dev">CEET's</a> (Consejo Estatal de Estudiantes de Telecomunicación) member 
+- <a href="https://ceet.org.es/">CEET's</a> (Consejo Estatal de Estudiantes de Telecomunicación) member 
   
 #### Interested in:
 - Front-End Devolopment
